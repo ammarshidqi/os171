@@ -1,0 +1,3 @@
+Pada week pertama OS sudah memasuki materi dan ada lab-lab yang mengajarkan tent
+ang memakai github serta putty visa badak dan ssh, sehingga saya dapat mempelaja
+ri sambil mempraktekkan dengan tutorial yang ada.

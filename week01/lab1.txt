@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 ammar.shidqi StafCS 4096 Feb 13 14:23 .
+drwx--x--x  4 ammar.shidqi StafCS 4096 Feb 13 14:21 ..
+drwxr-xr-x  8 ammar.shidqi StafCS 4096 Feb 13 14:22 .git
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:04 key
+-rw-r--r--  1 ammar.shidqi StafCS    0 Feb 13 14:23 lab1.txt
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:04 log
+-rw-r--r--  1 ammar.shidqi StafCS   18 Feb 13 14:02 README.md
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:11 sandbox
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:21 week00
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:06 week01
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:06 week02
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:06 week03
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:06 week04
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:06 week05
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:06 week06
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:06 week07
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:07 week08
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:07 week09
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:07 week10
+drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:04 xtra
+/home/fasilkom/mahasiswa/a/ammar.shidqi/os171/week01

@@ -20,3 +20,5 @@ drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:07 week09
 drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:07 week10
 drwxr-xr-x  2 ammar.shidqi StafCS 4096 Feb 13 14:04 xtra
 /home/fasilkom/mahasiswa/a/ammar.shidqi/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 13 Feb 2017 at 14:46:18

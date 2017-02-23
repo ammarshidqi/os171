@@ -1,0 +1,15 @@
+w02-170221-13-LR-About: Security, from: lecturer
+w02-170221-13-LR-About: Security, from: lecturer
+w02-170221-14-LR-About: Enkripsi, from: lecturer
+w02-170221-14-LR-About: Enkripsi, from: lecturer
+w02-170223-13-LR-About: Protection, from: lecturer
+w02-170223-13-LR-About: Protection, from: lecturer
+w02-170223-14-LR-About: C programming, from: lecturer
+w02-170223-14-LR-About: C programming, from: lecturer
+w02-170221-23-PS-About: Enkripsi
+w02-170221-23-PS-About: Enkripsi
+w02-170222-00-PS-About: C programming
+w02-170222-00-PS-About: C programming
+w02-170221-12-LR-About: Security, from: https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/15_Security.html
+w02-170223-18-LR-About: C programming tutorial, from: Youtube - https://www.youtube.com/watch?v=qlp8_zlMnSk
+

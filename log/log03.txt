@@ -1,0 +1,16 @@
+w03-170226-14-PS-About: Public key
+w03-170226-14-PS-About: Booting
+w03-170226-15-PS-About: Linux Booting per steps
+w03-170226-15-LR-About: Linux Booting per steps, From: http://www.golinuxhub.com/2014/03/step-by-step-linux-boot-process.html
+w03-170226-16-LR-About: Sudo Script
+w03-170226-16-LR-About: Sudo Script, From: http://unix.stackexchange.com/questions/154405/how-does-the-script-etc-init-d-sudo-work
+w03-170226-16-PS-About: Enkripsi
+w03-170226-17-PS-About: Enkripsi
+w03-170228-13-LR-About: , From: Lecturer
+w03-170228-13-LR-About: , From: Lecturer
+w03-170228-14-LR-About: , From: Lecturer
+w03-170228-14-LR-About: , From: Lecturer
+w03-170301-13-LR-About: , From: Lecturer
+w03-170301-13-LR-About: , From: Lecturer
+w03-170301-14-LR-About: , From: Lecturer
+w03-170301-14-LR-About: , From: Lecturer

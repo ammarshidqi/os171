@@ -1,0 +1,8 @@
+w04-170309-13-LR-About: Pointer, From: Lecturer
+w04-170309-13-LR-About: Pointer, From: Lecturer
+w04-170309-14-LR-About: Programming C, From: Lecturer
+w04-170309-14-LR-About: Programming C, From: Lecturer
+w04-170311-13-LR-About: , From: Lecturer
+w04-170311-13-LR-About: , From: Lecturer
+w04-170311-14-LR-About: , From: Lecturer
+w04-170311-14-LR-About: , From: Lecturer

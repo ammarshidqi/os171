@@ -1,0 +1,10 @@
+w06-170409-12-PS-About: Fork
+w06-170409-12-PS-About: Learning Fork
+w06-170409-13-PS-About: Fork Code
+w06-170409-13-LR-About: PID and PPID, From: https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/
+w06-170409-14-LR-About: PID and PPID, From: https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/
+w06-170409-14-LR-About: Sleep and Wait function, From: http://stackoverflow.com/questions/8167258/understanding-fork-sleep-and-processes-flux
+w06-170409-15-LR-About: Sleep and Wait function, From: http://stackoverflow.com/questions/8167258/understanding-fork-sleep-and-processes-flux
+w06-170409-15-LR-About: Fork return values, From: http://stackoverflow.com/questions/2562602/how-does-fork-return-for-child-process
+w06-170409-16-LR-About: Fflush function, From: http://stackoverflow.com/questions/16780908/understanding-the-need-for-fflush-and-problems-associated-with-it
+w06-170409-16-PS-About: Enkripsi
